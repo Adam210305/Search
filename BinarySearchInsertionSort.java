@@ -1,4 +1,4 @@
-public class BinarySearchInsertionSort {
+class BinarySearchInsertionSort {
 
     int binarySearch(int[] arr, int x) {
         int l = 0, r = arr.length - 1;
