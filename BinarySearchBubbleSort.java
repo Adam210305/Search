@@ -1,5 +1,3 @@
-package Search;
-
 class BinarySearchBubbleSort {
 
     int binarySearch(int[] arr, int x) {
