@@ -1,5 +1,3 @@
-package Search;
-
 public class BinarySearchInsertionSort {
 
     int binarySearch(int[] arr, int x) {
